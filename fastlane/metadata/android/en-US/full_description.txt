@@ -9,7 +9,7 @@ This is an open source launcher project for Android devices that has been built 
 * Search bar
 * Custom icon packs
 
-<b>Support the Project</b>
+<b>Shoutout to the Original Creators. Your efforts wont go in vein.</b>
 
 <a href="https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fopenlauncherteam%2Fopenlauncher.git&name=OpenLauncher&mail=gro.xobliam@@rentnasg>Translate using Stringlate</a>
 
