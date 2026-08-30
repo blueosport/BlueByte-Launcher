@@ -27,10 +27,12 @@ The suggestion is to use a different, active maintained launcher. If you are hap
 
 All the best, Gregor."
 
+* **
 ### Description
 
 This is an open source launcher project for Android devices that has been built completely from scratch. The main goal of this launcher is to find a healthy medium between customization and simplicity. At this point in time it implements most features required in a typical launcher but could benefit greatly from some general polish. If you would like to help out feel free to submit issues or ask about submitting a pull request with a feature you want to see in the launcher.
 
+* **
 You can also give the Original OpenLauncher a try down below.
 <div style="display:flex;">
 <a href="https://f-droid.org/repository/browse/?fdid=com.benny.openlauncher">
@@ -41,12 +43,14 @@ You can also give the Original OpenLauncher a try down below.
 </a>
 </div>
 
-
+* **
 ### Status
 
 Bugs have been fixed , only a few unused and undeclared functions remain inside but they will be used soon.
 Updating the project files one by one , for some reason Github doesnt like files with all the info squashed inside them.
 
+
+* **
 ### Features
 
   * A Mascot of its own.
@@ -55,16 +59,19 @@ Updating the project files one by one , for some reason Github doesnt like files
   * gear icon(for changes of your choice)
   * Search bar(still under progress)
 
+* **
+
 ### Contributions
+Regarding OpenLauncher
+* **The project is always open for contributions and accepts pull requests. Please use the _auto reformat feature_ in Android Studio before sending a pull request. Translations can be contributed on GitHub. You can use Stringlate to translate the project directly on your Android phone. It allows you to post the translations on GitHub with little effort.
 
-The project is always open for contributions and accepts pull requests. Please use the _auto reformat feature_ in Android Studio before sending a pull request. Translations can be contributed on GitHub. You can use Stringlate to translate the project directly on your Android phone. It allows you to post the translations on GitHub with little effort.
-
+* **
 ### Resources
 
   * Team: [bennykok](https://github.com/BennyKok) | [dkanada](https://github.com/dkanada) | [gsantner](https://github.com/gsantner)
   * Project: [License](/LICENSE)
   * F-Droid: [Metadata](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/com.benny.openlauncher.txt) | [Page](https://f-droid.org/packages/com.benny.openlauncher/) | [Wiki](https://f-droid.org/wiki/page/com.benny.openlauncher) | [Build](https://f-droid.org/wiki/page/com.benny.openlauncher/lastbuild)
- 
+ * **
 ### License
 
 The app is now licensed with GPLv2.0.
