@@ -43,13 +43,11 @@ Updating the project files one by one , for some reason Github doesnt like files
 
 ### Features
 
-  * Paged desktop
-  * Dock
-  * Drag and drop
-  * Hide apps
-  * Scrollable background
-  * Search bar
-  * Icon packs
+  * A Mascot of its own.
+  * Click to modify feature.(bug fixes)
+  * Pin/unpin apps(previously hide apps)
+  * gear icon(for changes of your choice)
+  * Search bar(still under progress)
 
 ### Contributions
 
