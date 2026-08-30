@@ -1,19 +1,21 @@
 
 ### [Welcome to BlueByte Launcher for Android]
+* **
 
 
 
 
 ### [Its Free , Its open Source , its Offline First]
 
+
 * Please check the releases to give the apk file a shot.
 * Feel free to make a pull request if you think something can be done better.
 * Please fork the original project too if you want to build something of your own from Scratch (Its worth it trust me.)
-
+* **
 
 [ --->**DOWNLOAD NOW**<--- ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
 Works best with Termux installed(for a more GNU/Linux-based experience)
-
+* **
 
 ### [What happened to the OpenLauncher]
 
