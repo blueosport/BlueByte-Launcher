@@ -1,6 +1,6 @@
 
 ### [Welcome to BlueByte Launcher for Android]
-* ** from your, one-and-only [ThatOneManiac](https://github.com/blueosport?tab=overview&from=2026-05-01&to=2026-05-31)
+- from your, one-and-only , [ThatOneManiac](https://github.com/blueosport?tab=overview&from=2026-05-01&to=2026-05-31)
 
 
 
