@@ -2,6 +2,8 @@
 ### [Welcome to BlueByte Launcher for Android]
 
 
+
+
 ### [Its Free , Its open Source , its Offline First]
 
 -Please check the releases to give the apk file a shot.
@@ -33,9 +35,6 @@ You can also give the Original OpenLauncher a try down below.
 </a>
 </div>
 
-<div style="display:flex;">
-    <img src="https://raw.githubusercontent.com/OpenLauncherTeam/openlauncher/master/assets/screenshots.png">
-</div>
 
 ### Status
 
