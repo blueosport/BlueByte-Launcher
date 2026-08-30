@@ -11,7 +11,7 @@
 -Please fork the original project if you want to build something of your own (Its worth it trust me.)
 
 
-[ **DOWNLOAD NOW** ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
+[ --->**DOWNLOAD NOW**<--- ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
 
 
 ### [What happened to the OpenLauncher]
