@@ -61,4 +61,4 @@ The project is always open for contributions and accepts pull requests. Please u
  
 ### License
 
-The app is now licensed with GP: 2.0.
+The app is now licensed with GPLv2.0.
