@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BlueByte</string>
+    <string name="battery_status">Battery: %1$d%%</string>
+    <string name="unlock_system">UNLOCK SYSTEM</string>
+    <string name="search_hint">Search apps&#8230;</string>
+    <string name="start_header">Start</string>
+    <string name="set_pin">Enter a PIN to set your lock</string>
+    <string name="confirm_pin">Enter PIN again to confirm</string>
+    <string name="enter_pin_to_unlock">Enter PIN to unlock</string>
+    <string name="pin_set_success">PIN saved successfully</string>
+    <string name="wrong_pin">That wasn\'t the PIN created by you.</string>
+    <string name="pins_dont_match">PINs don\'t match. Start over.</string>
+    <string name="change_idle_timer">Change Idle Timer</string>
+    <string name="idle_timer_set">Idle timer set to %1$d seconds</string>
+    <string name="adjust_tile_size">Adjust Tile Size</string>
+    <string name="welcome_message">Welcome to BlueByte</string>
+    <string name="mascot_message">go ahead , Im not watching&#8230; </string>
+    <string name="btn_start">LETS GET STARTED</string>
+    <string name="mascot_default_launcher">you like peace , dont you? Its just that , trust me.</string>
+    <string name="btn_set_default">OK</string>
+    <string name="mascot_no_ads">Lets get you a good pin to begin</string>
+    <string name="btn_make_pin">SURE</string>
+    <string name="mascot_fixing_ui">Lemme fix the UI inside , you confirm it in the meantime.</string>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_bg">
+
+    <ImageView
+        android:id="@+id/lock_wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:alpha="0.5"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="32dp"
+        android:gravity="center_horizontal">
+
+        <TextClock
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:format12Hour="hh:mm"
+            android:format24Hour="HH:mm"
+            android:textColor="@color/cyan_peacock"
+            android:textSize="64sp"
+            android:textStyle="bold"
+            android:layout_marginTop="32dp" />
+
+        <TextClock
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:format12Hour="EEEE, MMMM dd"
+            android:format24Hour="EEEE, MMMM dd"
+            android:textColor="@color/cyan_peacock"
+            android:textSize="18sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/battery_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/battery_status"
+            android:textColor="@color/cyan_peacock"
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/lock_instruction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/enter_pin_to_unlock"
+            android:textColor="@color/cyan_peacock"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/pin_input"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search_bar_background"
+            android:gravity="center"
+            android:inputType="numberPassword"
+            android:maxLength="6"
+            android:padding="16dp"
+            android:textColor="@color/cyan_peacock"
+            android:textSize="24sp"
+            android:letterSpacing="0.5"
+            android:autofillHints="password" />
+
+        <Button
+            android:id="@+id/btn_unlock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unlock_system"
+            android:backgroundTint="@color/black_bg"
+            android:textColor="@color/cyan_peacock"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:padding="16dp"
+            android:layout_marginTop="8dp" />
+
+        <LinearLayout
+            android:id="@+id/lock_mascot_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginTop="24dp">
+
+            <ImageView
+                android:id="@+id/mascot_ambassador"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_launcher_foreground"
+                app:tint="@color/cyan_peacock"
+                android:contentDescription="@null" />
+
+            <TextView
+                android:id="@+id/lock_fortune_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/cyan_peacock"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:paddingTop="8dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
