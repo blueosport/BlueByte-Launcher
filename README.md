@@ -12,6 +12,7 @@
 
 
 [ --->**DOWNLOAD NOW**<--- ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
+Works best with Termux installed(for a more GNU/Linux-based experience)
 
 
 ### [What happened to the OpenLauncher]
