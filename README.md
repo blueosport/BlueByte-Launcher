@@ -56,7 +56,7 @@ The project is always open for contributions and accepts pull requests. Please u
 ### Resources
 
   * Team: [bennykok](https://github.com/BennyKok) | [dkanada](https://github.com/dkanada) | [gsantner](https://github.com/gsantner)
-  * Project: [Changelog](/CHANGELOG.md) | [License](/LICENSE)
+  * Project: [License](/LICENSE)
   * F-Droid: [Metadata](https://gitlab.com/fdroid/fdroiddata/blob/master/metadata/com.benny.openlauncher.txt) | [Page](https://f-droid.org/packages/com.benny.openlauncher/) | [Wiki](https://f-droid.org/wiki/page/com.benny.openlauncher) | [Build](https://f-droid.org/wiki/page/com.benny.openlauncher/lastbuild)
  
 ### License
