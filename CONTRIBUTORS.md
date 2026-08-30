@@ -24,4 +24,4 @@ Also, to all those people who have helped this project, thank you.
 * **[MFlisar](https://github.com/MFlisar)**<br/>~° Extraction of core
 * **[saechimdaeki](https://github.com/saechimdaeki)**<br/>~° Code contributions
 * **[P'tit g](https://github.com/Ptitg)**<br/>~° Code contributions
-* **[ThatOneManiac](https://activate-quadro.vercel.app)**<br/>~° Custom Fork (--Fixed the color theme for a more modern look)
+* **[ThatOneManiac](https://activate-quadro.vercel.app)**<br/>~° Custom Fork (++Fixed the color theme for a more modern look)
