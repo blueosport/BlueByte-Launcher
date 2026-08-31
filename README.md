@@ -13,7 +13,7 @@
 * Please fork the original project too if you want to build something of your own from Scratch (Its worth it trust me.)
 * **
 
-[ --->**DOWNLOAD NOW**<--- ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
+[ --->****DOWNLOAD NOW****<--- ](https://github.com/blueosport/BlueByte-Launcher/releases/tag/Downloads(Alpha-release))
 Works best with Termux installed(for a more GNU/Linux-based experience)
 * **
 
